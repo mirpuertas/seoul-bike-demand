@@ -33,4 +33,4 @@ El dataset utilizado es [Seoul Bike Sharing Demand](https://archive.ics.uci.edu/
 ## Autores
 
 - Federico Nicolás Llanes  
-- Miguel Ignacio Rodríguez Puertas ([mirpuertas](https://github.com/mirpuertas))
+- Miguel Ignacio Rodríguez Puertas · [@mirpuertas](https://github.com/mirpuertas)
