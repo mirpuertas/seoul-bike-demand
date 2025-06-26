@@ -30,7 +30,9 @@ El dataset utilizado es [Seoul Bike Sharing Demand](https://archive.ics.uci.edu/
 - `Seasons`, `Holiday`, `Functioning Day` — variables categóricas/dummies
 - `Rainfall`, `Solar Radiation` — variables meteorológicas continuas
 
-## Autores
+## Autor
+Miguel Ignacio Rodríguez Puertas · [@mirpuertas](https://github.com/mirpuertas)
 
-- Federico Nicolás Llanes  
-- Miguel Ignacio Rodríguez Puertas · [@mirpuertas](https://github.com/mirpuertas)
+## Nota sobre el desarrollo
+
+Si bien este trabajo fue presentado en el marco de una entrega grupal, el análisis, modelado, codificación y documentación fueron realizados en su totalidad por Miguel Ignacio Rodríguez Puertas.
